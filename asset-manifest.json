@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/VISITORS-MANAGEMENT-SYSTEM/static/js/main.7f3c4a99.chunk.js",
-    "main.js.map": "/VISITORS-MANAGEMENT-SYSTEM/static/js/main.7f3c4a99.chunk.js.map",
+    "main.js": "/VISITORS-MANAGEMENT-SYSTEM/static/js/main.349b9dbf.chunk.js",
+    "main.js.map": "/VISITORS-MANAGEMENT-SYSTEM/static/js/main.349b9dbf.chunk.js.map",
     "runtime-main.js": "/VISITORS-MANAGEMENT-SYSTEM/static/js/runtime-main.93f8c835.js",
     "runtime-main.js.map": "/VISITORS-MANAGEMENT-SYSTEM/static/js/runtime-main.93f8c835.js.map",
     "static/js/2.754aab99.chunk.js": "/VISITORS-MANAGEMENT-SYSTEM/static/js/2.754aab99.chunk.js",
     "static/js/2.754aab99.chunk.js.map": "/VISITORS-MANAGEMENT-SYSTEM/static/js/2.754aab99.chunk.js.map",
     "index.html": "/VISITORS-MANAGEMENT-SYSTEM/index.html",
-    "precache-manifest.9375027507cd43cc89418ddf82b0704e.js": "/VISITORS-MANAGEMENT-SYSTEM/precache-manifest.9375027507cd43cc89418ddf82b0704e.js",
+    "precache-manifest.2631af96bd7e0845e3547802af4f03c1.js": "/VISITORS-MANAGEMENT-SYSTEM/precache-manifest.2631af96bd7e0845e3547802af4f03c1.js",
     "service-worker.js": "/VISITORS-MANAGEMENT-SYSTEM/service-worker.js",
     "static/js/2.754aab99.chunk.js.LICENSE.txt": "/VISITORS-MANAGEMENT-SYSTEM/static/js/2.754aab99.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.93f8c835.js",
     "static/js/2.754aab99.chunk.js",
-    "static/js/main.7f3c4a99.chunk.js"
+    "static/js/main.349b9dbf.chunk.js"
   ]
 }
